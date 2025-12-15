@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Angles",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-15T05:58:47.538090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Corinne - Night Angles Remix",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/01_Corinne_-_Night_Angles_Remix_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angles",
+      "artist": "dan le sac Vs Scroobius Pip",
+      "has_synced": false,
+      "path": "select/02_Angles_dan_le_sac_Vs_Scroobius_Pip.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Of Angels and Angles",
+      "artist": "The Decemberists",
+      "has_synced": true,
+      "path": "select/03_Of_Angels_and_Angles_The_Decemberists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paths and Angles (2008 Remaster)",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/04_Paths_and_Angles_(2008_Remaster)_Ultravox.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love's Lines, Angles And Rhymes - Digitally Remastered 1997",
+      "artist": "The 5th Dimension",
+      "has_synced": true,
+      "path": "select/05_Love's_Lines,_Angles_And_Rhymes_-_Digitally_Remastered_1997_The_5th_Dimension.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love's Lines, Angles And Rhymes (Digitally Remastered 1997)",
+      "artist": "The 5th Dimension",
+      "has_synced": true,
+      "path": "select/06_Love's_Lines,_Angles_And_Rhymes_(Digitally_Remastered_1997)_The_5th_Dimension.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Different Angles",
+      "artist": "Starcrawler",
+      "has_synced": true,
+      "path": "select/07_Different_Angles_Starcrawler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angles (feat. Chris Brown)",
+      "artist": "Wale feat. Chris Brown",
+      "has_synced": true,
+      "path": "select/08_Angles_(feat._Chris_Brown)_Wale_feat._Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Angles (feat. Chris Brown)",
+      "artist": "Wale, Chris Brown",
+      "has_synced": true,
+      "path": "select/09_Angles_(feat._Chris_Brown)_Wale,_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost Angles",
+      "artist": "Sweet",
+      "has_synced": false,
+      "path": "select/10_Lost_Angles_Sweet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Awe at All Angles - Acoustic",
+      "artist": "Moon Tooth",
+      "has_synced": false,
+      "path": "select/11_Awe_at_All_Angles_-_Acoustic_Moon_Tooth.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angles (live@Latitude)",
+      "artist": "Dan le Sac vs. Scroobius Pip",
+      "has_synced": false,
+      "path": "select/12_Angles_(live@Latitude)_Dan_le_Sac_vs._Scroobius_Pip.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Angles (feat. Chris Brown) [Club Mix]",
+      "artist": "Wale",
+      "has_synced": false,
+      "path": "select/13_Angles_(feat._Chris_Brown)_[Club_Mix]_Wale.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Angles (feat. Chris Brown)",
+      "artist": "Wale",
+      "has_synced": false,
+      "path": "select/14_Angles_(feat._Chris_Brown)_Wale.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love's Lines, Angles and Rhymes",
+      "artist": "The 5th Dimension",
+      "has_synced": false,
+      "path": "select/15_Love's_Lines,_Angles_and_Rhymes_The_5th_Dimension.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love's Lines, Angles and Rhymes",
+      "artist": "5th Dimension",
+      "has_synced": true,
+      "path": "select/16_Love's_Lines,_Angles_and_Rhymes_5th_Dimension.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Angles",
+      "artist": "$nigg",
+      "has_synced": false,
+      "path": "select/17_Angles_$nigg.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Angles With Dirty Faces",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/18_Angles_With_Dirty_Faces_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Angles",
+      "artist": "Wale feat. Chris Brown",
+      "has_synced": true,
+      "path": "select/19_Angles_Wale_feat._Chris_Brown.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angles",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Angles_Ave_Mujica.txt"
+    }
+  ]
+}
